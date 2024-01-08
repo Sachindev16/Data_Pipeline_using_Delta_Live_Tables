@@ -13,3 +13,9 @@ Instead of defining your data pipelines using a series of separate Apache Spark 
   <img src=./documents/DLT_demo.gif>
 </p>
 
+## Architecture
+------------
+<p align="center">
+  <img src=./documents/Medellian Arch.png>
+</p>
+
