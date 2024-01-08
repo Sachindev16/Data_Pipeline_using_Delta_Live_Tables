@@ -16,6 +16,6 @@ Instead of defining your data pipelines using a series of separate Apache Spark 
 ## Architecture
 ------------
 <p align="center">
-  <img src=./documents/Medellian Arch.PNG>
+  <img src=./documents/Medellian_Arch.PNG>
 </p>
 
