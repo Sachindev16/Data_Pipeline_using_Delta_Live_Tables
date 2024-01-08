@@ -10,6 +10,6 @@ Instead of defining your data pipelines using a series of separate Apache Spark 
 ## Demo
 ------------
 <p align="center">
-  <img src=./documents/demo.gif>
+  <img src=./documents/DLT_demo.gif>
 </p>
 
