@@ -2,17 +2,17 @@
 
 
 ## Introduction
-------------
+
 In this project we are building a continously runnung pipeline using Databricks recently introduced Delta live tables Methodology. These Delta Live Tables take csv files as their source of input
 
 ## Demo
-------------
+
 <p align="center">
   <img src=./documents/DLT_demo.gif>
 </p>
 
 ## Architecture
-------------
+
 <p align="center">
   <img src=./documents/Medellian_Arch.PNG>
 </p>
