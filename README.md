@@ -3,7 +3,8 @@
 
 ## Introduction
 
-In this project we are building a continously runnung pipeline using Databricks recently introduced Delta live tables Methodology. These Delta Live Tables take csv files as their source of input
+In this project we are building a continously runnung pipeline using Databricks recently introduced Delta live tables Methodology. These Delta Live Tables take csv files as their source of input, which were uplaod to Azure storage account.
+After creating a mount (connection between azure storage and databricks) SQL queries for Delta Live Table were formed in a notebook. Later same Notebook was used to formed a continously running pipeline.
 
 ## Demo
 
